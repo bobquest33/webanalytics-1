@@ -4,7 +4,7 @@ package analytic
 * [Environment for Keep Analytics]
 * @const Username 		{string} 		Username of Database
 * @const Password 		{string} 		Password of Database
-* @const MongoIP 		{string} 		MongoDB IP Address
+* @const MongoIP 			{string} 		MongoDB IP Address
 * @const DBName 			{string} 		Name Database Store
 **/
 const (
