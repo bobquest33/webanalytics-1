@@ -1,6 +1,6 @@
-# AnalyticsWebGolang
+# webanalytics
 
-AnalyticsWebGolang is Golang Library for Analytics website page, Tracking Page, etc..
+webanalytics is Golang Library for Analytics website page, Tracking Page, etc..
 
 
 # Roadmap
@@ -20,4 +20,3 @@ Keep URL of website in URL keeper > Tracking URL > Show Display Analytics
 1. Install [Mongodb](https://www.mongodb.com/) for keep data.
 2. Use AnalyticsWebGolang in middleware or in function.
 3. ...
-
